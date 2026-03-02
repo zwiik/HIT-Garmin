@@ -1,0 +1,4 @@
+<fitContributions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <fitField id="0" dataLabel="@Strings.fit_machine_label" unitLabel="@Strings.fit_machine_units" precision="0" sortOrder="0" />
+    <fitField id="1" dataLabel="@Strings.fit_tul_label" unitLabel="@Strings.fit_tul_units" precision="0" sortOrder="1" />
+</fitContributions>

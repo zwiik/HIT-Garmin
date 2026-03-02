@@ -1,0 +1,13 @@
+# Garmin Connect IQ ignore
+bin/
+gen/
+internal-mir/
+mir/
+*.prg
+*.iq
+*.debug.xml
+
+# Project specific
+developer_key
+.vscode/
+*.bak

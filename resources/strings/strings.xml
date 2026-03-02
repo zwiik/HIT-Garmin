@@ -1,0 +1,13 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <string id="AppName">HIT</string>
+
+    <string id="start_activity">Start Activity</string>
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+    <string id="fit_machine_label">Machine</string>
+    <string id="fit_machine_units">code</string>
+    <string id="fit_tul_label">TUL</string>
+    <string id="fit_tul_units">s</string>
+</strings>
